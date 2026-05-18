@@ -1,30 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rishi Kumar Gupta</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot Developer | Microservices Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Developer;React+JS+Frontend+Developer;Passionate+About+Backend+Development;Always+Learning+New+Technologies" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Rishi Kumar Gupta
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Java+Full+Stack+Developer;⚡+Spring+Boot+%7C+Microservices+Expert;🔥+React+JS+Frontend+Developer;☁️+Backend+Architect+%7C+API+Developer;💻+Passionate+About+Coding+%26+Innovation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🌟 Passionate Java Full Stack Developer  
-💻 Skilled in Backend + Frontend Development  
-🚀 Building scalable applications using Spring Boot & Microservices  
-🔥 Love Problem Solving and Learning New Technologies  
-📚 Currently improving DSA & System Design Skills  
-⚡ Fun Fact: I can spend hours debugging without getting bored 😄  
+```yaml
+Name: Rishi Kumar Gupta
+Role: Java Full Stack Developer
+Focus: Backend Development & Microservices
+Languages: Java, JavaScript, SQL
+Frontend: React.js, HTML5, CSS3
+Backend: Spring, Spring Boot, REST APIs
+Database: Oracle SQL, PL/SQL, MySQL
+Tools: Git, GitHub, Docker, Postman, Swagger, Jira
+IDE: IntelliJ IDEA, Eclipse, VS Code
+```
+
+✨ Passionate about building scalable enterprise applications  
+🔥 Love creating REST APIs & Microservices  
+⚡ Strong understanding of Java Ecosystem  
+🚀 Exploring Cloud & System Design  
+💡 Turning ideas into real-world applications  
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -32,126 +47,156 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_OR_RESUME_LINK">
+<a href="https://YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <a href="tel:+91XXXXXXXXXX">
 <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Arsenal
 
-## 👨‍💻 Programming Languages
+<div align="center">
 
-<p align="left">
+## 👨‍💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
 
 ---
 
-## ⚙️ Backend Technologies
+## 🚀 Backend Technologies
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-FF9800?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=microgenetics&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Servlets-FF9800?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white"/>
 
 ---
 
 ## 🎨 Frontend Technologies
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-</p>
 
 ---
 
 ## 🗄️ Database Technologies
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
+
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ---
 
-# 🛠️ Tools & Platforms
+## 🛠️ Dev Tools & Platforms
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,eclipse,vscode,idea" />
+
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 GitHub Achievements
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-# 🔥 GitHub Streak
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Most Used Languages
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
 
----
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-# ✨ Random Dev Quote
+# 🔥 Contribution Activity Graph
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-# 🚀 Visitor Count
+# 🏅 GitHub Trophies
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-<h3 align="center">⭐ "Code • Build • Learn • Repeat" ⭐</h3>
+# 💻 Coding Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# ⚡ Fun Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 "Building Scalable Applications With Java & Innovation"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+
+</div>
