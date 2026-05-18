@@ -119,7 +119,7 @@ I believe in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishigupta7254&theme=radical" height="170"/>
 </p>
 
 ---
@@ -151,11 +151,11 @@ I believe in:
 ## Contact Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:rishigupta7254@gmail.com">
+    <img src="https://img.shields.io/badge/rishigupta7254@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Mobile-+91XXXXXXXXXX-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-+91-8207574817green?style=for-the-badge"/>
 </p>
 
 ---
@@ -163,12 +163,12 @@ I believe in:
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/rishikumargupta7254">
     <img src="https://img.shields.io/badge/LinkedIn-Rishi%20Kumar%20Gupta-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Rishigupta7254">
+    <img src="https://img.shields.io/badge/GitHub-Rishigupta7254-black?style=for-the-badge&logo=github"/>
   </a>
 
   <a href="YOUR_RESUME_LINK">
