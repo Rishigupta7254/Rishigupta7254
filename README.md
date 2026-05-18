@@ -1,202 +1,160 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF0080&height=200&section=header&text=Hi%20👋,%20I'm%20Shakib%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Rishi Kumar Gupta
+<h3 align="center">Java Backend / Full-Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Java+Full+Stack+Developer;⚡+Spring+Boot+%7C+Microservices+Expert;🔥+React+JS+Frontend+Developer;☁️+Backend+Architect+%7C+API+Developer;💻+Passionate+About+Coding+%26+Innovation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=750&height=50&color=00C2FF&pause=1000"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakib2323&label=Profile%20Views&color=brightgreen&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/shakib2323?label=Followers&style=flat-square&color=blue"/>
+</p>
 
-</div>
-
----
-
-# 🌌 About Me
-
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-```yaml
-Name: Rishi Kumar Gupta
-Role: Java Full Stack Developer
-Focus: Backend Development & Microservices
-Languages: Java, JavaScript, SQL
-Frontend: React.js, HTML5, CSS3
-Backend: Spring, Spring Boot, REST APIs
-Database: Oracle SQL, PL/SQL, MySQL
-Tools: Git, GitHub, Docker, Postman, Swagger, Jira
-IDE: IntelliJ IDEA, Eclipse, VS Code
-```
-
-✨ Passionate about building scalable enterprise applications  
-🔥 Love creating REST APIs & Microservices  
-⚡ Strong understanding of Java Ecosystem  
-🚀 Exploring Cloud & System Design  
-💡 Turning ideas into real-world applications  
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## About Me
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;High-Performance+Backend+Systems;Production-Ready+Applications;Scalable+Architecture+Focused&center=true&width=700&height=40&color=F7DF1E"/>
+</p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+ Passionate **Java Backend Developer** with experience in building  
+**high-performance, scalable, and production-ready applications**
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Strong understanding of:
+- Backend Architecture & Design Principles
+- RESTful API Design
+- Microservices & Database Integration
+- Full-Stack Development 
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I believe in:
+- Clean & maintainable code
+- SOLID principles
+- Continuous learning & improvement
 
-<a href="https://YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<a href="tel:+91XXXXXXXXXX">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
+💼 **Actively seeking** Java / Backend / Software Developer roles
 
 ---
 
-# ⚡ Tech Arsenal
+## Core Expertise
 
-<div align="center">
-
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-
----
-
-## 🚀 Backend Technologies
-
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=microgenetics&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlets-FF9800?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-LLD-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎨 Frontend Technologies
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+### ☕ Backend & Java Ecosystem
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-Cloud--Ready-blue?style=for-the-badge"/>
+</p>
 
----
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css&theme=dark"/>
+</p>
 
-## 🗄️ Database Technologies
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white"/>
-
----
-
-## 🛠️ Dev Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,eclipse,vscode,idea" />
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
+### ⚙️ Tools & Practices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven,docker&theme=dark"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+</p>
 
 ---
 
-# 📊 Most Used Languages
+## Featured Projects
 
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+###  Spring Boot REST API
+✅ CRUD-based backend system  
+✅ Layered architecture  
+✅ Exception handling & validation  
+✅ Hibernate + MySQL integration  
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+### Microservices Architecture Project
+✅ Independent deployable services  
+✅ REST-based inter-service communication  
+✅ Database per service  
+✅ Scalable & modular design  
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
+### Full-Stack Application
+✅ React JS frontend  
+✅ Spring Boot backend  
+✅ REST API integration  
+✅ End-to-end feature implementation  
 
 ---
 
-# 💻 Coding Quote
+## GitHub Activity (Animated)
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib2323&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2323&theme=radical" height="170"/>
+</p>
 
 ---
 
-# ⚡ Fun Animation
+## Contact Me
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-shakibscrd@gmail.com-red?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Mobile-+91--8882178908-green?style=for-the-badge"/>
+</p>
 
 ---
 
-<div align="center">
+## Connect With Me
 
-## 🚀 "Building Scalable Applications With Java & Innovation"
+<p align="center">
+  <a href="https://www.linkedin.com/in/shakib23">
+    <img src="https://img.shields.io/badge/LinkedIn-Shakib%20Ali-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/shakib2323">
+    <img src="https://img.shields.io/badge/GitHub-shakib2323-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+---
 
-</div>
+## Career Objective
+
+To work as a **Java / Backend Software Engineer** in a growth-oriented organization where I can:
+- Design scalable backend systems
+- Improve system design expertise
+- Deliver clean, efficient, and maintainable code
+
+---
+
+<p align="center">
+  ✨ <b>“Code. Learn. Scale. Repeat.”</b> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:8A2BE2,100:00C2FF&height=120&section=footer"/>
+</p>
